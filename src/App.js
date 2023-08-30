@@ -1,23 +1,28 @@
+import React, { useState, useEffect } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import ImageGallery from "react-image-gallery";
 
-function App() {
+const App = () => {
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    const queryParameters = new URLSearchParams(window.location.search);
+    let id = queryParameters.get("id");
+    if(id == null) {
+      id="states";
+    }
+    const jsonFile = `jsons/${id}.json`;
+    fetch(jsonFile)
+    .then(response => response.json())
+    .then(data => { setData(data); })
+    .catch(error => console.error('Error fetching JSON:', error));
+
+  }, []);
+ 
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+       <ImageGallery items={data} />
     </div>
   );
 }
