@@ -1,0 +1,37 @@
+[
+    {
+      "original": "./images/states/alabama.jpg",
+      "thumbnail": "./images/states/alabama.jpg",
+      "description" : "Alabama"
+    },
+    {
+      "original": "images/states/alaska.jpg",
+      "thumbnail": "images/states/alaska.jpg",
+      "description" : "Alaska"
+    },
+    {
+      "original": "images/states/arizona.jpg",
+      "thumbnail": "images/states/arizona.jpg",
+      "description" : "Arizona"
+    },
+    {
+      "original": "images/states/arkansas.jpg",
+      "thumbnail": "images/states/arkansas.jpg",
+      "description" : "Arkansas"
+    },
+    {
+      "original": "images/states/california.jpg",
+      "thumbnail": "images/states/california.jpg",
+      "description" : "California"
+    },
+    {
+      "original": "images/states/colorado.jpg",
+      "thumbnail": "images/states/colorado.jpg",
+      "description" : "Colorado"
+    },
+    {
+      "original": "images/states/connecticut.jpg",
+      "thumbnail": "images/states/connecticut.jpg",
+      "description" : "Connecticut"
+    }
+  ]
