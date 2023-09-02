@@ -1,0 +1,12 @@
+[
+    {
+        "name":"States",
+        "image":"images/nav/states.jpg",
+        "slug":"states"
+    },
+    {
+        "name":"Flags",
+        "image":"images/nav/flags.jpg",
+        "slug":"flags"
+    }
+]

@@ -1,37 +1,252 @@
 [
-    {
-      "original": "./images/states/alabama.jpg",
-      "thumbnail": "./images/states/alabama.jpg",
-      "description" : "Alabama"
-    },
-    {
-      "original": "images/states/alaska.jpg",
-      "thumbnail": "images/states/alaska.jpg",
-      "description" : "Alaska"
-    },
-    {
-      "original": "images/states/arizona.jpg",
-      "thumbnail": "images/states/arizona.jpg",
-      "description" : "Arizona"
-    },
-    {
-      "original": "images/states/arkansas.jpg",
-      "thumbnail": "images/states/arkansas.jpg",
-      "description" : "Arkansas"
-    },
-    {
-      "original": "images/states/california.jpg",
-      "thumbnail": "images/states/california.jpg",
-      "description" : "California"
-    },
-    {
-      "original": "images/states/colorado.jpg",
-      "thumbnail": "images/states/colorado.jpg",
-      "description" : "Colorado"
-    },
-    {
-      "original": "images/states/connecticut.jpg",
-      "thumbnail": "images/states/connecticut.jpg",
-      "description" : "Connecticut"
-    }
-  ]
+  {
+    "description": "Alabama",
+    "original": "images/states/Alabama.jpg",
+    "thumbnail": "images/states/Alabama.jpg"
+  },
+  {
+    "description": "Alaska",
+    "original": "images/states/Alaska.jpg",
+    "thumbnail": "images/states/Alaska.jpg"
+  },
+  {
+    "description": "Arizona",
+    "original": "images/states/Arizona.jpg",
+    "thumbnail": "images/states/Arizona.jpg"
+  },
+  {
+    "description": "Arkansas",
+    "original": "images/states/Arkansas.jpg",
+    "thumbnail": "images/states/Arkansas.jpg"
+  },
+  {
+    "description": "California",
+    "original": "images/states/California.jpg",
+    "thumbnail": "images/states/California.jpg"
+  },
+  {
+    "description": "Colorado",
+    "original": "images/states/Colorado.jpg",
+    "thumbnail": "images/states/Colorado.jpg"
+  },
+  {
+    "description": "Connecticut",
+    "original": "images/states/Connecticut.jpg",
+    "thumbnail": "images/states/Connecticut.jpg"
+  },
+  {
+    "description": "Delaware",
+    "original": "images/states/Delaware.jpg",
+    "thumbnail": "images/states/Delaware.jpg"
+  },
+  {
+    "description": "Florida",
+    "original": "images/states/Florida.jpg",
+    "thumbnail": "images/states/Florida.jpg"
+  },
+  {
+    "description": "Georgia",
+    "original": "images/states/Georgia.jpg",
+    "thumbnail": "images/states/Georgia.jpg"
+  },
+  {
+    "description": "Hawaii",
+    "original": "images/states/Hawaii.jpg",
+    "thumbnail": "images/states/Hawaii.jpg"
+  },
+  {
+    "description": "Idaho",
+    "original": "images/states/Idaho.jpg",
+    "thumbnail": "images/states/Idaho.jpg"
+  },
+  {
+    "description": "Illinois",
+    "original": "images/states/Illinois.jpg",
+    "thumbnail": "images/states/Illinois.jpg"
+  },
+  {
+    "description": "Indiana",
+    "original": "images/states/Indiana.jpg",
+    "thumbnail": "images/states/Indiana.jpg"
+  },
+  {
+    "description": "Iowa",
+    "original": "images/states/Iowa.jpg",
+    "thumbnail": "images/states/Iowa.jpg"
+  },
+  {
+    "description": "Kansas",
+    "original": "images/states/Kansas.jpg",
+    "thumbnail": "images/states/Kansas.jpg"
+  },
+  {
+    "description": "Kentucky",
+    "original": "images/states/Kentucky.jpg",
+    "thumbnail": "images/states/Kentucky.jpg"
+  },
+  {
+    "description": "Louisiana",
+    "original": "images/states/Louisiana.jpg",
+    "thumbnail": "images/states/Louisiana.jpg"
+  },
+  {
+    "description": "Maine",
+    "original": "images/states/Maine.jpg",
+    "thumbnail": "images/states/Maine.jpg"
+  },
+  {
+    "description": "Maryland",
+    "original": "images/states/Maryland.jpg",
+    "thumbnail": "images/states/Maryland.jpg"
+  },
+  {
+    "description": "Massachusetts",
+    "original": "images/states/Massachusetts.jpg",
+    "thumbnail": "images/states/Massachusetts.jpg"
+  },
+  {
+    "description": "Michigan",
+    "original": "images/states/Michigan.jpg",
+    "thumbnail": "images/states/Michigan.jpg"
+  },
+  {
+    "description": "Minnesota",
+    "original": "images/states/Minnesota.jpg",
+    "thumbnail": "images/states/Minnesota.jpg"
+  },
+  {
+    "description": "Mississippi",
+    "original": "images/states/Mississippi.jpg",
+    "thumbnail": "images/states/Mississippi.jpg"
+  },
+  {
+    "description": "Missouri",
+    "original": "images/states/Missouri.jpg",
+    "thumbnail": "images/states/Missouri.jpg"
+  },
+  {
+    "description": "Montana",
+    "original": "images/states/Montana.jpg",
+    "thumbnail": "images/states/Montana.jpg"
+  },
+  {
+    "description": "Nebraska",
+    "original": "images/states/Nebraska.jpg",
+    "thumbnail": "images/states/Nebraska.jpg"
+  },
+  {
+    "description": "Nevada",
+    "original": "images/states/Nevada.jpg",
+    "thumbnail": "images/states/Nevada.jpg"
+  },
+  {
+    "description": "New Hampshire",
+    "original": "images/states/New Hampshire.jpg",
+    "thumbnail": "images/states/New Hampshire.jpg"
+  },
+  {
+    "description": "New Jersey",
+    "original": "images/states/New Jersey.jpg",
+    "thumbnail": "images/states/New Jersey.jpg"
+  },
+  {
+    "description": "New Mexico",
+    "original": "images/states/New Mexico.jpg",
+    "thumbnail": "images/states/New Mexico.jpg"
+  },
+  {
+    "description": "New York",
+    "original": "images/states/New York.jpg",
+    "thumbnail": "images/states/New York.jpg"
+  },
+  {
+    "description": "North Carolina",
+    "original": "images/states/North Carolina.jpg",
+    "thumbnail": "images/states/North Carolina.jpg"
+  },
+  {
+    "description": "North Dakota",
+    "original": "images/states/North Dakota.jpg",
+    "thumbnail": "images/states/North Dakota.jpg"
+  },
+  {
+    "description": "Ohio",
+    "original": "images/states/Ohio.jpg",
+    "thumbnail": "images/states/Ohio.jpg"
+  },
+  {
+    "description": "Oklahoma",
+    "original": "images/states/Oklahoma.jpg",
+    "thumbnail": "images/states/Oklahoma.jpg"
+  },
+  {
+    "description": "Oregon",
+    "original": "images/states/Oregon.jpg",
+    "thumbnail": "images/states/Oregon.jpg"
+  },
+  {
+    "description": "Pennsylvania",
+    "original": "images/states/Pennsylvania.jpg",
+    "thumbnail": "images/states/Pennsylvania.jpg"
+  },
+  {
+    "description": "Rhode Island",
+    "original": "images/states/Rhode Island.jpg",
+    "thumbnail": "images/states/Rhode Island.jpg"
+  },
+  {
+    "description": "South Carolina",
+    "original": "images/states/South Carolina.jpg",
+    "thumbnail": "images/states/South Carolina.jpg"
+  },
+  {
+    "description": "South Dakota",
+    "original": "images/states/South Dakota.jpg",
+    "thumbnail": "images/states/South Dakota.jpg"
+  },
+  {
+    "description": "Tennessee",
+    "original": "images/states/Tennessee.jpg",
+    "thumbnail": "images/states/Tennessee.jpg"
+  },
+  {
+    "description": "Texas",
+    "original": "images/states/Texas.jpg",
+    "thumbnail": "images/states/Texas.jpg"
+  },
+  {
+    "description": "Utah",
+    "original": "images/states/Utah.jpg",
+    "thumbnail": "images/states/Utah.jpg"
+  },
+  {
+    "description": "Vermont",
+    "original": "images/states/Vermont.jpg",
+    "thumbnail": "images/states/Vermont.jpg"
+  },
+  {
+    "description": "Virginia",
+    "original": "images/states/Virginia.jpg",
+    "thumbnail": "images/states/Virginia.jpg"
+  },
+  {
+    "description": "Washington",
+    "original": "images/states/Washington.jpg",
+    "thumbnail": "images/states/Washington.jpg"
+  },
+  {
+    "description": "West Virginia",
+    "original": "images/states/West Virginia.jpg",
+    "thumbnail": "images/states/West Virginia.jpg"
+  },
+  {
+    "description": "Wisconsin",
+    "original": "images/states/Wisconsin.jpg",
+    "thumbnail": "images/states/Wisconsin.jpg"
+  },
+  {
+    "description": "Wyoming",
+    "original": "images/states/Wyoming.jpg",
+    "thumbnail": "images/states/Wyoming.jpg"
+  }
+]
