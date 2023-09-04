@@ -8,5 +8,10 @@
         "name":"Continents",
         "image":"images/nav/continents.jpg",
         "slug":"continents"
+    },
+    {
+        "name":"Professions",
+        "image":"images/nav/professions.jpg",
+        "slug":"professions"
     }
 ]
