@@ -1,0 +1,37 @@
+[
+  {
+    "description": "Africa.png",
+    "original": "images/continents/Africa.png",
+    "thumbnail": "images/continents/Africa.png"
+  },
+  {
+    "description": "Antarctica.png",
+    "original": "images/continents/Antarctica.png",
+    "thumbnail": "images/continents/Antarctica.png"
+  },
+  {
+    "description": "Asia.png",
+    "original": "images/continents/Asia.png",
+    "thumbnail": "images/continents/Asia.png"
+  },
+  {
+    "description": "Australia.png",
+    "original": "images/continents/Australia.png",
+    "thumbnail": "images/continents/Australia.png"
+  },
+  {
+    "description": "Europe.png",
+    "original": "images/continents/Europe.png",
+    "thumbnail": "images/continents/Europe.png"
+  },
+  {
+    "description": "North America.png",
+    "original": "images/continents/North America.png",
+    "thumbnail": "images/continents/North America.png"
+  },
+  {
+    "description": "South America.png",
+    "original": "images/continents/South America.png",
+    "thumbnail": "images/continents/South America.png"
+  }
+]

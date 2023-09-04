@@ -5,8 +5,8 @@
         "slug":"states"
     },
     {
-        "name":"Flags",
-        "image":"images/nav/flags.jpg",
-        "slug":"flags"
+        "name":"Continents",
+        "image":"images/nav/continents.jpg",
+        "slug":"continents"
     }
 ]
