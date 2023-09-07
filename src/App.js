@@ -25,7 +25,7 @@ const App = () => {
     <div className="App">
         <Menu />
        <ImageGallery items={data} />
-        <div><a href='privacy.html' target='_blank'>Privacy Policy</a></div>
+        <div><a href='Privacy.html' target='_blank'>Privacy Policy</a></div>
     </div>
   );
 }
